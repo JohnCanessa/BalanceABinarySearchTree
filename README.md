@@ -7,7 +7,7 @@ The idea is to balance a BST.
 To read about my approaches and insights please take a look at the
 following post in my blog at:
 
-<T.B.D.>
+https://www.johncanessa.com/2021/01/13/balance-a-binary-search-tree/
 
 Remember that the best way to learn is to read and experiment.
 
